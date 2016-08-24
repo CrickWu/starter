@@ -1,10 +1,8 @@
 ---
 layout: blog
 category: blog
-published: false
+published: true
 title: New doc for test
-splash: ''
-tags: ''
 ---
 ## A New Post
 
